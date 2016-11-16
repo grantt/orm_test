@@ -51,9 +51,13 @@ creating a `WHERE` clause.
 
 #### Resources ####
 [SQLite Docs](https://www.sqlite.org/docs.html)
+
 [sqlite3 Docs](https://docs.python.org/2/library/sqlite3.html)
+
 [SQLAlchemy Docs](https://docs.sqlalchemy.org/en/latest/)
+
 [Chinook Sample Database](http://chinookdatabase.codeplex.com/)
+
 [StackOverflow](https://http://stackoverflow.com/)
 
 #### Known Issues and Future Development #### 
