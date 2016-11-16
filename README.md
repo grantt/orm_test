@@ -5,7 +5,7 @@
 #### Basics ####
 __Setup__
 Fire up your terminal and select your local directory of choice.
-`git clone git@github.com:grantt/orm_test.git`
+```git clone git@github.com:grantt/orm_test.git```
 
 The `test.db` file contains the sample data and is referenced throughout
 my code.
@@ -13,8 +13,7 @@ my code.
 __Running Tests__
 There are several simple unit tests I wrote while working on the 
 challenge, they can be run with the following command:
-
-`python -m unittest -v test`
+```python -m unittest -v test```
 
 #### Strategy ####
 My main experience with ORMs is with SQLAlchemy, an overwhelmingly 
